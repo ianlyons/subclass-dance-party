@@ -25,3 +25,14 @@ body, a:link, a:visited, a:active{
   border-radius:10px;
   position:absolute;
 }
+
+.tinyDancer {
+  border: 0px;
+  height: 70px;
+  width: 50px;
+  border-radius: 50px;
+  background-image: url(https://www.cheap-flyer-printer.com/shop/product_images/i/elton%20john%202012__74538.jpg);
+  background-size: 50px 70px;
+  background-repeat: no-repeat;
+
+}
